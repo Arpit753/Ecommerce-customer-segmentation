@@ -123,5 +123,4 @@ Place `online_retail_II.csv` in `data/raw/` then run notebooks in order.
 
 ## Author
 
-**Ankit Kumar** — M.Sc. Statistics  
-[GitHub](https://github.com/CaptainLevy)
+**Arpit Singh** — Masters of Operational Research  
